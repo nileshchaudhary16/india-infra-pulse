@@ -1,4 +1,4 @@
-# Secret keys — NEVER push these
+# Secret keys
 .env
 
 # Python cache
