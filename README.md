@@ -166,7 +166,7 @@ Generated code shown in expandable section for transparency
 | PMGSY Roads (km) | PMGSY Dashboard | 2024-25 |
 | Active Projects | NHAI Project Tracker | 2024-25 |
 
-> **Note:** Data was manually curated from official NHAI and MoRTH 2024-25 Annual Reports. The data.gov.in API was evaluated but not used as its road datasets were last updated in 2017.
+> **Note: Data was manually curated from official NHAI and MoRTH 2024-25 Annual Reports. The data.gov.in API was evaluated but not used as its road datasets were last updated in 2017.**
 
 ---
 
